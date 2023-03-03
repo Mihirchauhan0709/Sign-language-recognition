@@ -1,0 +1,2 @@
+# Sign-language-recognition
+People with a hearing impairment are usually deprived of general communication, as they find it difficult at times to interact with people with their gestures, as only a very few of those are recognized by most people. Also, the general public finds it difficult to understand sign language used by most of the specially abled people. To make this communication effective between specially- abled and general public there is a need to develop a system where both can understand each other
